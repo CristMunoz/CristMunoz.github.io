@@ -1,0 +1,136 @@
+/* Body */
+body{
+    font-family: 'Ubuntu', sans-serif;
+    background-color: rgba(235, 235, 235, 0.814);
+    margin: 0 auto;
+}
+
+/* Sobre mí */
+#sobre-mi{
+    width: 100%;
+}
+
+.profile{
+    text-align: center;
+}
+
+.profile img{
+    width: 250px;
+    height: 250px;
+    border-radius: 100%;
+}
+
+#sobre-mi h2{
+    color: rgb(43, 43, 43);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+#sobre-mi .profesion{
+    color: rgb(43, 43, 43);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+    text-align: left;
+}
+
+#sobre-mi .descripcion{
+    color: rgb(43, 43, 43);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+    text-align: left;
+}
+
+/* Experiencia */
+section #experiencia{
+    background-color: rgba(235, 235, 235, 0.814);
+}
+
+.container h3{
+    color: rgb(43, 43, 43);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 24px;
+    font-weight: 500;
+}
+
+.container h4{
+    color: rgb(43, 43, 43);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 21px;
+    font-weight: 300;
+}
+
+.container p{
+    color: rgb(43, 43, 43);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 18px;
+    font-weight: 300;
+}
+
+/* Conocimientos */
+section #conocimientos{
+    background-color: rgba(235, 235, 235, 0.814);
+}
+
+.icon-p{
+    text-align: center;
+    display: inline-block;
+}
+
+.icon-p p{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(43, 43, 43);
+    font-size: 14px;
+    font-weight: 300;
+}
+
+/* Portafolio */
+section #portafolio{
+    background-color: rgba(235, 235, 235, 0.814);;
+}
+
+/* Formulario */
+#contacto{
+    background-color: #334456;
+}
+
+.formulario{
+    background-color: #334456;
+    width: 100%;
+}
+
+.formulario h2{
+    color: rgb(255, 255, 255);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 30px;
+    font-weight: 500;
+}
+
+.text-input{
+    font-family: 'Ubuntu', sans-serif;
+    color: rgb(43, 43, 43);
+    font-size: 16px;
+    font-weight: 300;
+}
+
+footer{
+    width: 100%;
+}
+
+footer p{
+    color: rgb(255, 255, 255);
+    font-family: 'Ubuntu', sans-serif;
+    font-size: 16px;
+    font-weight: 300;
+}
+
+footer a{
+    color: #fff;
+    text-decoration: none;
+}
+
+footer a:hover{
+    color: rgb(210, 33, 48);
+}
